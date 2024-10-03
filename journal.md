@@ -35,6 +35,7 @@ __Travail 2, semaine 2, 2 le 7 Oct 2024__
 
 C'est le 2e exercice du coure PPE2.
 Cette fois, on a étudié sur les fonctions de Git et comment utiliser GitHub.
+
 Sur les commandes des codes ne sont pas difficile, surtout les professeurs l'ont déjà expliquée pandant le cours,
 mais en mémorisant les commandes, c'est le point important. Par exemple, même si on untilise quelleques commande dans le terminal,
 la prochaine fois il est possible que j'aie encore besoin de _help_ ou _man_ pour savoir quelle fonction appartient à quelle commande.
