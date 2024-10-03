@@ -40,5 +40,5 @@ mais en mémorisant les commandes, c'est le point important. Par exemple, même 
 la prochaine fois il est possible que j'aie encore besoin de _help_ ou _man_ pour savoir quelle fonction appartient à quelle commande.
 C'est la raison qu'on doit faire des exercices après le cours.
 
-Bien sûr il y a eu une issue de cette fois. Quand j'ai presque fini, il restait la dernière étape: _git push origin exercice2_. Le terminal me dit que _Impossible de lire le dépôt distant_ et je n'ai pas les droits d'acces.
+Il y a eu une issue de cette fois. Quand j'ai presque fini, il restait la dernière étape: _git push origin exercice2_. Le terminal me dit que _Impossible de lire le dépôt distant_ et je n'ai pas les droits d'acces.
 Cette fois, au lieu de demander au monsieur gpt, j'ai posé les mots-clés dans une site de communication sur internet et vu un post qui donne les solutions qui correspondant exactment à ma question. En fait, mon adress de _URL du dépôt distant_ est incorrecte. Après cela, j'ai cherché des informations réelles et corrigé ma faute.
