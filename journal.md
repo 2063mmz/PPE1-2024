@@ -1,5 +1,5 @@
 # Journal de bord du projet encadré
-Travail 1, semaine 1, le 25-30 Septembre 2024
+__Travail 1, semaine 1, le 25-30 Septembre 2024__
 
 C'est le premier travail du cours PPE1. 
 Avant le début du cours, j'ai déjà cherché des informations sur ce cours dans la brochure 
