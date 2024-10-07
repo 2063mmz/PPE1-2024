@@ -43,3 +43,5 @@ C'est la raison qu'on doit faire des exercices après le cours.
 
 Il y a eu une issue de cette fois. Quand j'ai presque fini, il restait la dernière étape: _git push origin exercice2_. Le terminal me dit que _Impossible de lire le dépôt distant_ et je n'ai pas les droits d'acces.
 Cette fois, au lieu de demander au monsieur gpt, j'ai posé les mots-clés dans une site de communication sur internet et vu un post qui donne les solutions qui correspondant exactment à ma question. En fait, mon adress de _URL du dépôt distant_ est incorrecte. Après cela, j'ai cherché des informations réelles et corrigé ma faute.
+
+Modifier en 7/10. En réponse à la question dans le fichier d'exercices 2, on peut utiliser les commandes _git add_ et _git commit_ pour l'ajout de nos modifications à notre dépôt, et puis utiliser _git push_ pour mettre à jour.
