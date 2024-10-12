@@ -1,5 +1,5 @@
 # Journal de bord du projet encadré
-Travail 1, semaine 1, le 25-30 Septembre 2024
+__Travail 1, semaine 1, le 25-30 Septembre 2024__
 
 C'est le premier travail du cours PPE1. 
 Avant le début du cours, j'ai déjà cherché des informations sur ce cours dans la brochure 
@@ -31,7 +31,7 @@ Comme je n'étais pas très sûr de la commande tar, j'ai essayé encore 1 fois 
 Avec ce travail, j'ai compris que la clé de la programmation est la logique,
 il faut une logique rigoureuse puis programmer avec moins d'erreurs.
 
-__Travail 2, semaine 2, 2 le 7 Oct 2024__
+__Travail 2, semaine 2,le 2-7 Oct 2024__
 
 C'est le 2e exercice du coure PPE2.
 Cette fois, on a étudié sur les fonctions de Git et comment utiliser GitHub.
@@ -42,6 +42,8 @@ la prochaine fois il est possible que j'aie encore besoin de _help_ ou _man_ pou
 C'est la raison qu'on doit faire des exercices après le cours.
 
 Il y a eu une issue de cette fois. Quand j'ai presque fini, il restait la dernière étape: _git push origin exercice2_. Le terminal me dit que _Impossible de lire le dépôt distant_ et je n'ai pas les droits d'acces.
-Cette fois, au lieu de demander au monsieur gpt, j'ai posé les mots-clés dans une site de communication sur internet et vu un post qui donne les solutions qui correspondant exactment à ma question. En fait, mon adress de _URL du dépôt distant_ est incorrecte. Après cela, j'ai cherché des informations réelles et corrigé ma faute.
+Cette fois, au lieu de demander au monsieur gpt, j'ai posé les mots-clés dans une site de communication sur internet et vu un post qui donne les solutions qui correspondant exactment à ma question. En fait, après évité toutes les options, j'ai finalement trouvé que le problème était mon adresse de _URL du dépôt distant_ est incorrecte. En fait, au début la première fois que j'ai changé l'adresse (je sais pas pourquoi...), je me suis trompé. Après, j'ai copié mon adresse correcte et corrigé ma faute.
 
-Modifier en 7/10. En réponse à la question dans le fichier d'exercices 2, on peut utiliser les commandes _git add_ et _git commit_ pour l'ajout de nos modifications à notre dépôt, et puis utiliser _git push_ pour mettre à jour.
+Modifier en 7/10. En réponse à la question dans le fichier d'exercices 2, on peut utiliser les commandes _git add_ et _git commit_ pour l'ajout de nos modifications à notre dépôt, et puis utiliser _git pull_ et _git push_ pour mettre à jour.
+
+Petite note: Grâce à cet exercice, je peux comprendre clairement les fonctions de _git pull_ et _git push_.
