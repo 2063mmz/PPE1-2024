@@ -1,0 +1,7 @@
+0 Kyoto
+1 Berlin
+1 Taipei
+2 Tokyo
+2 Washington
+4 Rome
+190 Paris
