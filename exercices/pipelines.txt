@@ -1,0 +1,30 @@
+les commandes utilisées pour répondre à chaque question:
+Sur exercice 1:
+ls
+echo
+touch
+rm
+cd
+cat
+grep -r
+wc -l
+vim
+nano
+git add
+git commit
+git pull
+git push
+git status
+Sur exercice 2:
+grep -r
+cat
+wc
+sort
+cut
+sort -n
+git add
+git commit
+git commit -m
+git pull
+git push
+git status
