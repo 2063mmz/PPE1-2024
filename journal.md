@@ -1,6 +1,7 @@
 Je sais pas ajouter quoi dans ce fichier, mais c'est un mauvais fichier
 
 Je voudrais etre rich. Et avoir un chat.
+Cette ligne doit rester après correction
 # Journal de bord du projet encadré
 __Travail 1, semaine 1, le 25-30 Septembre 2024__
 
