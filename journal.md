@@ -47,3 +47,4 @@ Cette fois, au lieu de demander au monsieur gpt, j'ai posé les mots-clés dans 
 Modifier en 7/10. En réponse à la question dans le fichier d'exercices 2, on peut utiliser les commandes _git add_ et _git commit_ pour l'ajout de nos modifications à notre dépôt, et puis utiliser _git pull_ et _git push_ pour mettre à jour.
 
 Petite note: Grâce à cet exercice, je peux comprendre clairement les fonctions de _git pull_ et _git push_.
+## exercices git
