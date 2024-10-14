@@ -1,4 +1,4 @@
-les commandes utilisées pour répondre à chaque question:
+Les commandes utilisées pour répondre à chaque question:
 Sur exercice 1:
 ls
 echo
@@ -15,15 +15,24 @@ git commit
 git pull
 git push
 git status
+
 Sur exercice 2:
-grep -r
+grep -o "Kyoto" *.ann | cut -d':' -f2 >>
+.
+.
+.
+(les villes)
+sort -n 2018classement.txt | uniq -c > 2018.txt 
+sort -n 2018.txt > ~/PPE_github/PPE1-2024/exercices/classement_2018.txt
+
+Par mois:
+grep -o "Kyoto" 2016_01*.ann | cut -d':' -f2 >> 
+grep -o "Kyoto" 2017_01*.ann | cut -d':' -f2 >>
+grep -o "Kyoto" 2018_01*.ann | cut -d':' -f2 >> 
+sort -n classement01.txt | uniq -c > 01.txt
+sort -n 01.txt > ~/PPE_github/PPE1-2024/exercices/classement_01.txt  
 cat
-wc
-sort
-cut
-sort -n
 git add
-git commit
 git commit -m
 git pull
 git push
