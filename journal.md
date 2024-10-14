@@ -1,3 +1,4 @@
+Je voudrais etre rich. Et avoir un chat.
 # Journal de bord du projet encadré
 __Travail 1, semaine 1, le 25-30 Septembre 2024__
 
