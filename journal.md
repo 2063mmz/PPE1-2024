@@ -53,3 +53,11 @@ Modifier en 7/10. En réponse à la question dans le fichier d'exercices 2, on p
 Petite note: Grâce à cet exercice, je peux comprendre clairement les fonctions de _git pull_ et _git push_.
 ## exercices git
 correction d’erreur
+
+__Travail 3, semaine 3,le 9-14 Oct 2024__
+
+Cette fois, il y a 2 fichier à faire. À cause de la perte pendant le cours, je n'ai pas bien compris les commentaires. Même si j'ai revu des diapos, c'est dur quand j'ai fait.
+
+J'ai un peu mal compris à le rôle du _oups.txt_ dans fichier Git II, exercice3. Car avant on déjà manipulé les commandes dans _journal.md_. Après l'exercice 3, je n'ai aucune idée si ce que j'ai fait est correct ou non, j'ai juste suivi les questions.
+
+Il y a quelques questions j'ai écrites sur _Issues_ .
