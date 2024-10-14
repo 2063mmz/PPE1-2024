@@ -52,3 +52,4 @@ Modifier en 7/10. En réponse à la question dans le fichier d'exercices 2, on p
 
 Petite note: Grâce à cet exercice, je peux comprendre clairement les fonctions de _git pull_ et _git push_.
 ## exercices git
+correction d’erreur
