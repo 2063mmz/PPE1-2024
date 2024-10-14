@@ -57,7 +57,9 @@ correction d’erreur
 __Travail 3, semaine 3,le 9-14 Oct 2024__
 
 Cette fois, il y a 2 fichier à faire. À cause de la perte pendant le cours, je n'ai pas bien compris les commentaires. Même si j'ai revu des diapos, c'est un peu dur quand j'ai fait.
+
 Parce que il faux trouver un solutions plus bonne, pour l'exercice 2 dans l'exercice de pipelines. Après avoir compris l'utilisation de cut, j'ai refait l'exercice encore une fois pour écrire des codes plus clairs et plus simples. Mais je ne sais pas s'il existe une solution pour éviter de taper manuellement les villes qui ont un chiffre égal 0.
+
 J'ai un peu mal compris à le rôle du _oups.txt_ dans fichier Git II, exercice3. Car avant on déjà manipulé les commandes dans _journal.md_. Après l'exercice 3, je n'ai aucune idée si ce que j'ai fait est correct ou non, j'ai juste suivi les questions.
 
 S'il y a des questions je les ai écrites dans _Issues_ .
