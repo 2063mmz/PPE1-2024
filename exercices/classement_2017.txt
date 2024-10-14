@@ -1,7 +1,7 @@
-0 Kyoto
-0 Taipei
-0 Tokyo
-3 Berlin
-6 Rome
-7 Washington
-72 Paris
+      0 Kyoto
+      0 Taipei
+      0 Tokyo
+      3 Berlin
+      6 Rome
+      7 Washington
+     72 Paris
