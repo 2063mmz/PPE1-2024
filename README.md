@@ -2,6 +2,5 @@
 Salut :>
 
 This is A reademe
-et il n'y a rien d'utilisable!
 
 BYE
