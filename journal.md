@@ -65,6 +65,7 @@ J'ai un peu mal compris à le rôle du _oups.txt_ dans fichier Git II, exercice3
 S'il y a des questions je les ai écrites dans _Issues_ .
 
 __Travail 4, semaine 4, le 16-21 Oct 2024__
+
 __Exercice 4--Lire le code de la dernière diapo et décrire son fonctionnement__
 ligne 1: _#!/usr/bin/bash_ Il permet d'écrire des commandes dans un fichier texte pour obtenir un script.
 ligne 2: _IF_ est une commande conditionnelle, _$#_ est un argument special qui donne des nombres d'arguments passés au sript. Ensuite, _-ne_ present "n'est pas égal à".
