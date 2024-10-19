@@ -1,7 +1,11 @@
-Je sais pas ajouter quoi dans ce fichier, mais c'est un mauvais fichier
+#c'est l'exercice 3
 
+Je sais pas ajouter quoi dans ce fichier, mais c'est un mauvais fichier
 Je voudrais etre rich. Et avoir un chat.
 Cette ligne doit rester après correction
+
+#c'est l'exercice 3
+
 # Journal de bord du projet encadré
 
 __·__ __Travail 1, semaine 1, le 25-30 Septembre 2024__
@@ -52,8 +56,12 @@ Cette fois, au lieu de demander au monsieur gpt, j'ai posé les mots-clés dans 
 Modifier en 7/10. En réponse à la question dans le fichier d'exercices 2, on peut utiliser les commandes _git add_ et _git commit_ pour l'ajout de nos modifications à notre dépôt, et puis utiliser _git pull_ et _git push_ pour mettre à jour.
 
 Petite note: Grâce à cet exercice, je peux comprendre clairement les fonctions de _git pull_ et _git push_.
-## exercices git
+
+#c'est l'exercice 3
+## exercices git  
 correction d’erreur
+
+#c'est l'exercice 3
 
 __·__ __Travail 3, semaine 3,le 9-14 Oct 2024__
 
