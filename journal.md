@@ -3,7 +3,8 @@ Je sais pas ajouter quoi dans ce fichier, mais c'est un mauvais fichier
 Je voudrais etre rich. Et avoir un chat.
 Cette ligne doit rester après correction
 # Journal de bord du projet encadré
-__Travail 1, semaine 1, le 25-30 Septembre 2024__
+
+__·__ __Travail 1, semaine 1, le 25-30 Septembre 2024__
 
 C'est le premier travail du cours PPE1. 
 Avant le début du cours, j'ai déjà cherché des informations sur ce cours dans la brochure 
@@ -35,7 +36,7 @@ Comme je n'étais pas très sûr de la commande tar, j'ai essayé encore 1 fois 
 Avec ce travail, j'ai compris que la clé de la programmation est la logique,
 il faut une logique rigoureuse puis programmer avec moins d'erreurs.
 
-__Travail 2, semaine 2,le 2-7 Oct 2024__
+__·__ __Travail 2, semaine 2,le 2-7 Oct 2024__
 
 C'est le 2e exercice du coure PPE2.
 Cette fois, on a étudié sur les fonctions de Git et comment utiliser GitHub.
@@ -54,7 +55,7 @@ Petite note: Grâce à cet exercice, je peux comprendre clairement les fonctions
 ## exercices git
 correction d’erreur
 
-__Travail 3, semaine 3,le 9-14 Oct 2024__
+__·__ __Travail 3, semaine 3,le 9-14 Oct 2024__
 
 Cette fois, il y a 2 fichier à faire. À cause de la perte pendant le cours, je n'ai pas bien compris les commentaires. Même si j'ai revu des diapos, c'est un peu dur quand j'ai fait.
 
@@ -64,19 +65,19 @@ J'ai un peu mal compris à le rôle du _oups.txt_ dans fichier Git II, exercice3
 
 S'il y a des questions je les ai écrites dans _Issues_ .
 
-__Travail 4, semaine 4, le 16-21 Oct 2024__
+__·__ __Travail 4, semaine 4, le 16-21 Oct 2024__
 
 __Exercice 4--Lire le code de la dernière diapo et décrire son fonctionnement__
 
-__Ligne 1__: _#!/usr/bin/bash_ Il permet d'écrire des commandes dans un fichier texte pour obtenir un script.
+Ligne 1: _#!/usr/bin/bash_ Il permet d'écrire des commandes dans un fichier texte pour obtenir un script.
 
-__Ligne 2__: _IF_ est une commande conditionnelle, _$#_ est un argument special qui donne des nombres d'arguments passés au sript. Ensuite, _-ne_ present "n'est pas égal à".
+Ligne 2: _IF_ est une commande conditionnelle, _$#_ est un argument special qui donne des nombres d'arguments passés au sript. Ensuite, _-ne_ present "n'est pas égal à".
 Ligne 3,4,5,6: Si _if_ marche, le programe écrit "ce programme demande un argument" et termine avec _eixt_.
 Si _IF_ ne marche pas, le script continue les lignes suivantes.
 
-__Ligne 7,8,9__: On définit _FICHIER_URLS_ est l'argument, _OK_ et _NOK_ sont initialisés à 0, qui serent compter quelque chose.
+Ligne 7,8,9: On définit _FICHIER_URLS_ est l'argument, _OK_ et _NOK_ sont initialisés à 0, qui serent compter quelque chose.
 
-__Ligne 10-20__: C'est une boucle WHILE, _read_ est une commande BASH, il lit chaque ligne de texte, _-r_  pour éviter la fonction tromber des "/" dans le texte, "LINE" est une variable pour contenir chaque ligne, cequi est lue par _read_. If faut __Jamais Oublier " ; "__  
+Ligne 10-20: C'est une boucle WHILE, _read_ est une commande BASH, il lit chaque ligne de texte, _-r_  pour éviter la fonction tromber des "/" dans le texte, "LINE" est une variable pour contenir chaque ligne, cequi est lue par _read_. If faut __Jamais Oublier " ; "__  
 
 Quand la boucle WHILE commence, le script affiche "la ligne: $LINE", présentant chaque ligne. 
 
@@ -84,4 +85,4 @@ Il y a encore une boucle _IF_, si la ligne commence par "https?://", le symbole 
 
 À la fin de la boucle _WHILE_, on peut connaître combien d'URLs sont valides, et combien d'URLs ne sont pas valides sur numbres de _OK_ et _NOK_.
 
-__Ligne 21,22__: le sympole _"<"_ present chaque fois WHILE permet de lire une ligne de l'argument et de déciderde si l'URL est valide ou pas justqu'a la fin du texte _FICHIER_URLS_. Et puis present le resultas " $OK URLs et $NOK lignes douteuses".
+Ligne 21,22: le sympole _"<"_ present chaque fois WHILE permet de lire une ligne de l'argument et de déciderde si l'URL est valide ou pas justqu'a la fin du texte _FICHIER_URLS_. Et puis present le resultas " $OK URLs et $NOK lignes douteuses".
