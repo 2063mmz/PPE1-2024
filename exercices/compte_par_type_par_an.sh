@@ -1,6 +1,7 @@
 #!/bin/bash
 
 if [ $# -ne 4 ]
+
 then
 	echo "ce programme demande 4 arguments"
 	exit
@@ -24,7 +25,5 @@ for anne in "$ANN1" "$ANN2" "$ANN3"; do
                 count=$(grep -h "$TYPE" ~/Desktop/Exercicel1/ann/$3/*.ann | wc -l)
                 echo -e "Location en $ANN3:\n$count" >> ~/Desktop/Exercicel1/33compte_par_type_par_an.txt
 	fi
-
-
 done
 
