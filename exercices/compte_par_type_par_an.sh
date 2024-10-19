@@ -1,5 +1,12 @@
 #!/bin/bash
 
+if [ $# -ne 4 ]
+then
+	echo "ce programme demande 4 arguments"
+	exit
+fi
+
+
 ANN1=$1
 ANN2=$2
 ANN3=$3

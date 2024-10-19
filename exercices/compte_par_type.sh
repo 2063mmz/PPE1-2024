@@ -1,4 +1,9 @@
 #!/bin/bash
+if [ $# -ne 2 ]
+then
+	echo "ce programme demande 2 arguments"
+        exit
+fi
 
 ANN=$1
 
