@@ -18,5 +18,6 @@ for anne in "$ANN1" "$ANN2" "$ANN3"; do
                 echo -e "Location en $ANN3:\n$count" >> ~/Desktop/Exercicel1/33compte_par_type_par_an.txt
 	fi
 
+
 done
 
