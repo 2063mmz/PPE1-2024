@@ -1,5 +1,11 @@
 #!/bin/bash
 
+if [ $# -ne 3 ]
+then
+	echo "ce programme demande 3 arguments"
+	exit
+fi
+
 annee=$1
 mois=$2
 nombre=$3
