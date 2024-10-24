@@ -1,6 +1,9 @@
 # PPE1-2024
 Salut :>
 
-POuR projet de PPE1, voici c'est le nom de nOtre Group: GroupPPE1_2024
+Pour projet de PPE1, voici c'est le lien vers le GitHub du groupe: https://github.com/2063mmz/groupPPE1_2024
+
+OU
 
 Vous pouvez Find IT dans la page de mon "Popular repositories".
+
