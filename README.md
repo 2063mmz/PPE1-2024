@@ -1,7 +1,7 @@
 # PPE1-2024
 Salut :>
 
-Pour projet de PPE1, voici c'est le lien vers le GitHub du groupe: https://github.com/2063mmz/groupePPE1_2024
+Pour projet final de PPE1, voici c'est le lien vers le GitHub du groupe: https://github.com/2063mmz/groupePPE1_2024
 
 OU
 
