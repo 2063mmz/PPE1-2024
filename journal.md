@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 C'est une phrase.
+
 Cette ligne doit rester après correction.
 =======
 #c'est l'exercice 3
