@@ -85,7 +85,7 @@ Si _IF_ ne marche pas, le script continue les lignes suivantes.
 
 Ligne 7,8,9: On définit _FICHIER_URLS_ est l'argument, _OK_ et _NOK_ sont initialisés à 0, qui serent compter quelque chose.
 
-Ligne 10-20: C'est une boucle WHILE, _read_ est une commande BASH, il lit chaque ligne de texte, _-r_  pour éviter la fonction tromber des "/" dans le texte, "LINE" est une variable pour contenir chaque ligne, cequi est lue par _read_. If faut __Jamais Oublier " ; "__  
+Ligne 10-20: C'est une boucle WHILE, _read_ est une commande BASH, il lit chaque ligne de texte, _-r_  pour éviter la fonction tromber des "/" dans le texte, "LINE" est une variable pour contenir chaque ligne, cequi est lue par _read_. Il faut __Jamais Oublier " ; "__  
 
 Quand la boucle WHILE commence, le script affiche "la ligne: $LINE", présentant chaque ligne. 
 
