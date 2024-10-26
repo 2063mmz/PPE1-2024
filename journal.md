@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-I AM ERROR
 C'est une phrase.
 Cette ligne doit rester après correction.
 =======
