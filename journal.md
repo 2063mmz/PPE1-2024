@@ -1,4 +1,6 @@
-
+I AM ERROR
+C'est une phrase.
+Cette ligne doit rester après correction.
 # Journal de bord du projet encadré
 __Travail 1, semaine 1, le 25-30 Septembre 2024__
 
