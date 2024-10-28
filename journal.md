@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-I AM ERROR
-C'est une phrase.
-
-Cette ligne doit rester après correction.
-=======
-#c'est l'exercice 3
->>>>>>> 550c81a2c22bef01d5740cb289e26ab52ac73216
 # Journal de bord du projet encadré
 
 __·__ __Travail 1, semaine 1, le 25-30 Septembre 2024__
