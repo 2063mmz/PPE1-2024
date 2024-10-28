@@ -81,3 +81,6 @@ Il y a encore une boucle _IF_, si la ligne commence par "https?://", le symbole 
 À la fin de la boucle _WHILE_, on peut connaître combien d'URLs sont valides, et combien d'URLs ne sont pas valides sur numbres de _OK_ et _NOK_.
 
 Ligne 21,22: le sympole _"<"_ present chaque fois WHILE permet de lire une ligne de l'argument et de déciderde si l'URL est valide ou pas justqu'a la fin du texte _FICHIER_URLS_. Et puis present le resultas " $OK URLs et $NOK lignes douteuses".
+
+
+# Séance 3 /
