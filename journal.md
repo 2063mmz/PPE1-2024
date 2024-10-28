@@ -94,3 +94,5 @@ Ligne 21,22: le sympole _"<"_ present chaque fois WHILE permet de lire une ligne
 modif 1
 #Modification 2
 Une troisieme ligne pour la route !
+changement depuis l'ordi.
+-ok je sais supprimer qqchose par utilise 'dd'
