@@ -5,13 +5,6 @@ C'est une phrase.
 Cette ligne doit rester après correction.
 =======
 #c'est l'exercice 3
-
-Je sais pas ajouter quoi dans ce fichier, mais c'est un mauvais fichier
-Je voudrais etre rich. Et avoir un chat.
-Cette ligne doit rester après correction
-
-#c'est l'exercice 3
-
 >>>>>>> 550c81a2c22bef01d5740cb289e26ab52ac73216
 # Journal de bord du projet encadré
 
