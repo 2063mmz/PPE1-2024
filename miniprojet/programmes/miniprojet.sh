@@ -19,8 +19,8 @@ do
 
         else
                 valid_url+=("$line")
+       	fi
 
-        fi
 done< "$1"
 
 for url in "${valid_url[@]}"
