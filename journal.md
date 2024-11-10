@@ -94,5 +94,13 @@ Ligne 21,22: le sympole _"<"_ present chaque fois WHILE permet de lire une ligne
 modif 1
 #Modification 2
 Une troisieme ligne pour la route !
-changement depuis l'ordi.
--ok je sais supprimer qqchose par utilise 'dd'
+changement depuis l'ordi. 
+je sais supprimer qqchose par utilise 'dd'
+
+
+__.__ __travail miniprojet-1__
+Pour reponde la question 1 de l'exercice 1:
+__Pourquoi ne pas utiliser cat?__
+Dans cet exercice, le but c'est que affichier chaque url et faire des commandes sur chaque lien.
+Si l'on utilise la commande "cat", tout le contenu du fichier sera affiché en une seule fois, ce qui rendra le résultat chaotique et difficile à traiter.
+Mais, si l'on utilise "while read", cette commande permet de lire le fichier ligne par ligne, c'est-à-dire une URL à la fois. Ainsi, le résultat sera organisé et chaque URL pourra être traitée dans une manière idéale.
