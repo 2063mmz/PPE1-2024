@@ -9,7 +9,7 @@ while read -r line
 do
         if [ ! -e "$1" ]
         then
-                echo "ce programme demande un arguments"
+                echo "ce programme demande un arguments" 
                 exit 1
         fi
 
@@ -33,7 +33,7 @@ do
         if 
                [[ "$http_url" = [^45]{3} ]]
         then
-                echo "HTTP erreur: $http_url pour $url\n Vous pouvez le corriger ou réessayer une fois."
+                echo "HTTP erreur: $http_url pour $url\n Vous pouvez le corriger ou réessayer une fois." 
 	else
 		echo -e "$num:\t$url\nHTTP: $http_url"
 	        ((num++))
@@ -42,9 +42,9 @@ do
         if
                 [[ -z "$encodage_url" ]]
         then
-                echo "cet Url: $url n'exist pas l'encodage."
+                echo "cet Url: $url n'exist pas l'encodage." 
         else
-                echo -e "Numbre de mots: $num_url\nL'encodage: $encodage_url"
+                echo -e "Numbre de mots: $num_url\nL'encodage: $encodage_url" 
 	fi
 done
 
